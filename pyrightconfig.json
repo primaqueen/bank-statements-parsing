@@ -1,0 +1,12 @@
+{
+  "include": [
+    "bank_statements_parsing",
+    "tests"
+  ],
+  "exclude": [
+    ".venv",
+    ".pytest_cache"
+  ],
+  "pythonVersion": "3.11",
+  "typeCheckingMode": "basic"
+}
